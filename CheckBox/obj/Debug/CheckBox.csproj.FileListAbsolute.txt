@@ -1,0 +1,48 @@
+c:\users\user.step.009\documents\visual studio 2013\Projects\CheckBox\CheckBox\bin\Debug\CheckBox.exe.config
+c:\users\user.step.009\documents\visual studio 2013\Projects\CheckBox\CheckBox\bin\Debug\CheckBox.exe
+c:\users\user.step.009\documents\visual studio 2013\Projects\CheckBox\CheckBox\bin\Debug\CheckBox.pdb
+c:\users\user.step.009\documents\visual studio 2013\Projects\CheckBox\CheckBox\obj\Debug\MainWindow.baml
+c:\users\user.step.009\documents\visual studio 2013\Projects\CheckBox\CheckBox\obj\Debug\MainWindow.g.cs
+c:\users\user.step.009\documents\visual studio 2013\Projects\CheckBox\CheckBox\obj\Debug\App.g.cs
+c:\users\user.step.009\documents\visual studio 2013\Projects\CheckBox\CheckBox\obj\Debug\CheckBox_MarkupCompile.cache
+c:\users\user.step.009\documents\visual studio 2013\Projects\CheckBox\CheckBox\obj\Debug\CheckBox.g.resources
+c:\users\user.step.009\documents\visual studio 2013\Projects\CheckBox\CheckBox\obj\Debug\CheckBox.Properties.Resources.resources
+c:\users\user.step.009\documents\visual studio 2013\Projects\CheckBox\CheckBox\obj\Debug\CheckBox.csproj.GenerateResource.Cache
+c:\users\user.step.009\documents\visual studio 2013\Projects\CheckBox\CheckBox\obj\Debug\CheckBox.exe
+c:\users\user.step.009\documents\visual studio 2013\Projects\CheckBox\CheckBox\obj\Debug\CheckBox.pdb
+c:\users\user.step.009\documents\visual studio 2013\Projects\CheckBox\CheckBox\obj\Debug\CheckBox.csprojResolveAssemblyReference.cache
+C:\Users\Poul\Downloads\Projects\Projects\CheckBox\CheckBox\bin\Debug\CheckBox.exe.config
+C:\Users\Poul\Downloads\Projects\Projects\CheckBox\CheckBox\bin\Debug\CheckBox.exe
+C:\Users\Poul\Downloads\Projects\Projects\CheckBox\CheckBox\bin\Debug\CheckBox.pdb
+C:\Users\Poul\Downloads\Projects\Projects\CheckBox\CheckBox\obj\Debug\CheckBox.csprojResolveAssemblyReference.cache
+C:\Users\Poul\Downloads\Projects\Projects\CheckBox\CheckBox\obj\Debug\MainWindow.baml
+C:\Users\Poul\Downloads\Projects\Projects\CheckBox\CheckBox\obj\Debug\MainWindow.g.cs
+C:\Users\Poul\Downloads\Projects\Projects\CheckBox\CheckBox\obj\Debug\App.g.cs
+C:\Users\Poul\Downloads\Projects\Projects\CheckBox\CheckBox\obj\Debug\CheckBox_MarkupCompile.cache
+C:\Users\Poul\Downloads\Projects\Projects\CheckBox\CheckBox\obj\Debug\CheckBox.g.resources
+C:\Users\Poul\Downloads\Projects\Projects\CheckBox\CheckBox\obj\Debug\CheckBox.Properties.Resources.resources
+C:\Users\Poul\Downloads\Projects\Projects\CheckBox\CheckBox\obj\Debug\CheckBox.csproj.GenerateResource.Cache
+C:\Users\Poul\Downloads\Projects\Projects\CheckBox\CheckBox\obj\Debug\CheckBox.csproj.CoreCompileInputs.cache
+C:\Users\Poul\Downloads\Projects\Projects\CheckBox\CheckBox\obj\Debug\CheckBox.exe
+C:\Users\Poul\Downloads\Projects\Projects\CheckBox\CheckBox\obj\Debug\CheckBox.pdb
+C:\Users\Poul\Downloads\MediaPlayer\MediaPlayer\Projects\CheckBox\CheckBox\bin\Debug\CheckBox.exe.config
+C:\Users\Poul\Downloads\MediaPlayer\MediaPlayer\Projects\CheckBox\CheckBox\bin\Debug\CheckBox.exe
+C:\Users\Poul\Downloads\MediaPlayer\MediaPlayer\Projects\CheckBox\CheckBox\bin\Debug\CheckBox.pdb
+C:\Users\Poul\Downloads\MediaPlayer\MediaPlayer\Projects\CheckBox\CheckBox\obj\Debug\CheckBox.csprojResolveAssemblyReference.cache
+C:\Users\Poul\Downloads\MediaPlayer\MediaPlayer\Projects\CheckBox\CheckBox\obj\Debug\MainWindow.baml
+C:\Users\Poul\Downloads\MediaPlayer\MediaPlayer\Projects\CheckBox\CheckBox\obj\Debug\MainWindow.g.cs
+C:\Users\Poul\Downloads\MediaPlayer\MediaPlayer\Projects\CheckBox\CheckBox\obj\Debug\App.g.cs
+C:\Users\Poul\Downloads\MediaPlayer\MediaPlayer\Projects\CheckBox\CheckBox\obj\Debug\CheckBox_MarkupCompile.cache
+C:\Users\Poul\Downloads\MediaPlayer\MediaPlayer\Projects\CheckBox\CheckBox\obj\Debug\CheckBox.g.resources
+C:\Users\Poul\Downloads\MediaPlayer\MediaPlayer\Projects\CheckBox\CheckBox\obj\Debug\CheckBox.Properties.Resources.resources
+C:\Users\Poul\Downloads\MediaPlayer\MediaPlayer\Projects\CheckBox\CheckBox\obj\Debug\CheckBox.csproj.GenerateResource.Cache
+C:\Users\Poul\Downloads\MediaPlayer\MediaPlayer\Projects\CheckBox\CheckBox\obj\Debug\CheckBox.csproj.CoreCompileInputs.cache
+C:\Users\Poul\Downloads\MediaPlayer\MediaPlayer\Projects\CheckBox\CheckBox\obj\Debug\CheckBox.exe
+C:\Users\Poul\Downloads\MediaPlayer\MediaPlayer\Projects\CheckBox\CheckBox\obj\Debug\CheckBox.pdb
+C:\Users\Poul\Downloads\MediaPlayer\MediaPlayer\Projects\CheckBox\CheckBox\obj\Debug\Menu.g.cs
+C:\Users\Poul\Downloads\MediaPlayer\MediaPlayer\Projects\CheckBox\CheckBox\obj\Debug\CheckBox_MarkupCompile.lref
+C:\Users\Poul\Downloads\MediaPlayer\MediaPlayer\Projects\CheckBox\CheckBox\obj\Debug\Menu.baml
+C:\Users\Poul\Downloads\MediaPlayer\MediaPlayer\Projects\CheckBox\CheckBox\bin\Debug\taglib-sharp.dll
+C:\Users\Poul\Downloads\MediaPlayer\MediaPlayer\Projects\CheckBox\CheckBox\obj\Debug\ControlVolume.g.cs
+C:\Users\Poul\Downloads\MediaPlayer\MediaPlayer\Projects\CheckBox\CheckBox\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Poul\Downloads\MediaPlayer\MediaPlayer\Projects\CheckBox\CheckBox\obj\Debug\ControlVolume.baml
